@@ -14,3 +14,4 @@ This application demonstrates how to use the Bluemix Cloudant NoSQL DB service. 
 + Access the running app in a browser at <http://localhost:3000>
 
 [Install Node.js]: https://nodejs.org/en/download/
+mysample 
